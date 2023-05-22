@@ -1,1 +1,1 @@
-# Deep Learning Classifier
+# Deep learning classifier
