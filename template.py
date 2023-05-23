@@ -16,15 +16,15 @@ list_of_files = [
     f"src/{package_name}/entity/__init__.py",
     f"src/{package_name}/constants/__init__.py",
     "configs/config.yaml",
-    "dvc.yaml",                          # data control version file
+    "dvc.yaml",              # data control version file
     "params.yaml",
-    "init_setup.sh" ,                    # shell script file -- help to create environment
+    "init_setup.sh" ,        # shell script file -- help to create environment
     "requirements.txt",
     "requirements_dev.txt",
     "setup.py",
     "setup.cfg",
-    "pyproject.toml"  ,                  # used when creating packages
-    "tox.ini",                           # for testing of project locally
+    "pyproject.toml"  ,      # used when creating packages
+    "tox.ini",               # for testing of project locally
     "research/trials.ipynb"
 ]
 
